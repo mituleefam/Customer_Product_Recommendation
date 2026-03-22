@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+scipy
+scikit-learn
+yellowbrick
+tabulate
+jupyterlab
+notebook
+ipykernel
+streamlit
