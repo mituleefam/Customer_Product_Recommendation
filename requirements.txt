@@ -7,7 +7,4 @@ scipy
 scikit-learn
 yellowbrick
 tabulate
-jupyterlab
-notebook
-ipykernel
 streamlit
